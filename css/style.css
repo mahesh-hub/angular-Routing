@@ -1,0 +1,24 @@
+.header{
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    background-color: aqua;
+}
+.footer{
+    background-color: aqua;
+    text-align: center;
+}
+.leftMenu{
+    height:500px;
+    width:150px;
+    background-color: aqua;
+}
+.mainContent{
+    height: 500px;
+    background-color: darkgreen;
+    width: 650px;
+}
+a{
+    display: block;
+    padding: 5px;
+}
